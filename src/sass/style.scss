@@ -1,0 +1,66 @@
+@import 'reset';
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic|Montserrat:400,700);
+@import 'ico';
+@import 'var';
+@import 'global';
+@import 'footer';
+@import 'index';
+@import 'header';
+@import 'demande'; 
+
+
+/*
+Theme Name: 
+Theme URI: 
+Description: Thème Visa Travel Service
+Version: 0.0.1
+Author: travel visa service
+Author URI: 
+Tags: empty, full-width, simple, white
+
+*/
+
+body,
+button,
+input,
+select,
+textarea{ color: #333; font-size: 14px; line-height: 1.5;}
+
+/* Balises block */
+
+.post-content h1{ }
+.post-content h2{ }
+.post-content h3{ }
+.post-content h4{ }
+.post-content h5{ }
+.post-content h6{ }
+.post-content p{ }
+.post-content ul{ }
+.post-content ol{ }
+.post-content blockquote{ }
+.post-content pre{ }
+.post-content address{ }
+.post-content address{ }
+
+/* Balises inline */
+
+.post-content strong{ }
+.post-content em{ }
+.post-content acronym{ }
+.post-content code{ }
+.post-content del{ }
+.post-content ins{ }
+
+/* Classes des images */
+
+.alignleft{ display: inline; float: left;}
+.aligncenter{ clear: both; display: block; margin-left: auto; margin-right: auto;}
+.alignright{ display: inline; float: right;}
+.size-auto{ }
+.size-medium{ }
+.size-large{ }
+.size-full{ }
+.wp-caption{ }
+.wp-caption img{ }
+.gallery{ }
+.gallery .gallery-item{ }

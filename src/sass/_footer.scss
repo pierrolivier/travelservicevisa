@@ -1,0 +1,43 @@
+.site-footer{
+	width: 100%;
+	height: 180px;
+	display: block;
+	padding: 20px;
+	text-align: center;
+	background-color: $white;
+	font-family: 'Lato',sans-serif;
+	font-weight: 400px;
+	color: $grey;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.5);
+	p{
+		font-size: 14px;
+	}
+	.phone-number{
+		display: block;
+		color: $black-light; 
+		font-size: 16px;
+		font-weight: 700;
+		margin-bottom: 13px;
+		.align{
+			display: inline-block;
+			position: relative;
+			top: 1px;
+		}
+	}
+	.copyright{
+		font-size: 10px;
+	}
+	.social-icons{
+		font-size: 16px;
+		display: block;
+		margin-top: 13px;
+		a{
+			color: $grey;
+			text-decoration: none;
+		}
+		a:hover{
+			color: $black-light;
+		}
+	}
+}
+
